@@ -1,0 +1,19 @@
+{
+    "aws": {
+        "awscloudformation": {
+            "AuthRoleName": "awspetdatastorage-20190219121230-authRole",
+            "UnauthRoleArn": "arn:aws:iam::397715292701:role/awspetdatastorage-20190219121230-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::397715292701:role/awspetdatastorage-20190219121230-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "awspetdatastorage-20190219121230-deployment",
+            "UnauthRoleName": "awspetdatastorage-20190219121230-unauthRole",
+            "StackName": "awspetdatastorage-20190219121230",
+            "StackId": "arn:aws:cloudformation:us-west-2:397715292701:stack/awspetdatastorage-20190219121230/af928a00-3482-11e9-b7e0-0650fec6e554"
+        },
+        "categories": {
+            "auth": {
+                "cognito339fdae5": {}
+            }
+        }
+    }
+}
