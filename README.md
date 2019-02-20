@@ -9,3 +9,6 @@ An AWS cloud-enabled Android mobile app with the AWS Amplify toolchain.
 * Enabling querying and displaying the list of pets in a RecyclerView.
 
 * Enabling adding new pet data and persisting data in the backend.
+
+
+>> Reference : https://aws.amazon.com/blogs/mobile/building-an-android-app-with-aws-amplify-part-1/
